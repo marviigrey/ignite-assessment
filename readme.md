@@ -5,6 +5,8 @@ Setup a kubernetes cluster using kind
     Answer: script can be found in this directory in a file called kind.sh
 
     Download the kubeconfig for the cluster and store in a safe place, we will use it much later in the next steps
+    - config file stored in AWS S3 bucket.
+    
 
 Deploy a sample Node.js app using terraform
 
